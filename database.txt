@@ -1,0 +1,8 @@
+
+Sofanit 0000 Student 21 10000 2 
+Henock_ 0001 Student 22 10000 2 
+Rediet_ 0002 Student 23 10000 2 
+Workinw 0003 Student 24 10000 2 
+Samuel_ 0004 Student 25 10000 2 
+Abraham 0005 Student 44 10000 5 
+teodors 0006 Student 33 11000 3 
